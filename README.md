@@ -3,4 +3,5 @@ Aplicação de inteligência artificial para predição de pacientes com a doen�
 Duas bases de dados, uma com atributos sobre os pacientes (parte 1) e outra com imagens de ressonância magnética (parte 2).<br>
 Primeira base de dados: https://www.kaggle.com/datasets/brsdincer/alzheimer-features <br>
 Segunda base de dados: https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images <br>
+Vídeo no youtube: https://youtu.be/tqaGIoTFZd4
 Conteúdos: Dois códigos feitos no site Google Colab, um paper com a descrição de todo o experimento e as bases de dados.
